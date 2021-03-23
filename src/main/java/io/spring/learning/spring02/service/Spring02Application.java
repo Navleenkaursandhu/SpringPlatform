@@ -1,0 +1,13 @@
+package io.spring.learning.spring02.service;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class Spring02Application {
+
+	public static void main(String[] args) {
+		SpringApplication.run(Spring02Application.class, args);
+	}
+
+}
